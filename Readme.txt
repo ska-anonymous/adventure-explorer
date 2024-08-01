@@ -25,8 +25,8 @@ Technologies Used
 •	Zippopotam API: An API service used to retrieve detailed place information.
 Acknowledgements
 
-The Travel Destinations app was developed by Vipul Chitral. Special thanks to the creators of the Zippopotam API for providing the place data used in the app.
+The Travel Destinations app was developed by Salman Khan. Special thanks to the creators of the Zippopotam API for providing the place data used in the app.
 
 Contact
 
-For any inquiries or questions, please contact kakarout.sameer1994@gmail.com.
+For any inquiries or questions, please contact salmankhanserai@gmail.com.
